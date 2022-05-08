@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 * AWS/Azure
 
 - 💬 Ask me about anything, I'm happy to help..
-- 📫 Connect with me on LinkedIn.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-waqas-kayani/).
 - 💼 Any freelance work? do reach at my [email](mailto:mvickykayani@gmail.com).
 
 ### 📕 Blog Posts

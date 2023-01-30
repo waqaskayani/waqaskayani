@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ### About Me 🚀
-🌱 I’m a DevOps Engineer with hands-on experience of architecting, developing, automating and optimising production grade deployments on Cloud and On-premise for Storage, Networking and Web application solutions using best DevOps practices. 
+🌱 I’m an engineer with hands-on experience of architecting, developing, automating and optimising production grade deployments on Cloud and On-premise for Storage, Networking and Web application solutions using best DevOps practices. 
 
 👨‍💻 Skilled in all major DevOps tools, including but not limited to: 
 * Containers/Kubernetes/Helm

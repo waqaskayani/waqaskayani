@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Waqas Kayani!](https://www.linkedin.com/in/muhammad-waqas-kayani/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Waqas Kayani!](https://www.linkedin.com/in/waqas-kayani/) 
 <!--
 **waqaskayani/waqaskayani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-waqas-kayani/)](https://www.linkedin.com/in/muhammad-waqas-kayani/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waqas-kayani/)](https://www.linkedin.com/in/waqas-kayani/)
 [![Medium Badge](https://img.shields.io/badge/-@Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://waqas-kayani.medium.com/)](https://waqas-kayani.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mvickykayani@gmail.com)](mailto:mvickykayani@gmail.com)
 
@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 👨‍💻 Skilled in all major DevOps tools, including but not limited to: 
 * Containers/Kubernetes/Helm
 * Github Actions, CodePipeline, Jenkins, Gitlab CI
-* EFK, Prometheus, Grafana
+* EFK, Prometheus, Grafana, New Relic
 * Terraform, CloudFormation
 * AWS/Azure
 
 - 💬 Ask me about anything, I'm happy to help..
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-waqas-kayani/).
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/waqas-kayani/).
 - 💼 Any freelance work? do reach at my [email](mailto:mvickykayani@gmail.com).
 
 ### 📕 Blog Posts
